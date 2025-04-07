@@ -5,7 +5,7 @@
 - Studying Computer Science at Federal University of Maranhão, Brazil
 
 
-<div>
+<div style="display:flex">
   <picture style="height: 100%;">
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=Nevss1&show_icons=true&theme=dracula&include_all_commits=true"
