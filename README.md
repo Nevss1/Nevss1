@@ -1,6 +1,10 @@
 ## Hi! I'm Rafael! 👋
 
 
+## ⚡ About me:
+- I'm currently focused in web development, data science and other application areas
+- Studying Computer Science at Federal University of Maranhão, Brazil
+
 
 <div style="display:flex">
   <picture style="height: 100%;">
