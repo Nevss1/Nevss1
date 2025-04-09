@@ -1,24 +1,13 @@
-## Hi! I'm Rafael! 👋
+## Hello! 👋 
+I'm Rafael Neves, a Computer Science student at Federal University of Maranhão.
+- 🌱  I'm currently focused in web development, data science and other application areas
+
+## 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-neves-a38036264/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rafael_nvss/)
 
 
-## ⚡ About me:
-- I'm currently focused in web development, data science and other application areas
-- Studying Computer Science at Federal University of Maranhão, Brazil
+## Stats
 
-
-<div style="display:flex">
-  <picture style="height: 100%;">
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Nevss1&show_icons=true&theme=dracula&include_all_commits=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Nevss1&show_icons=true&theme=dracula"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=Nevss1&show_icons=true&theme=dracula" style="height: 100%;" />
-  </picture>
-  <a href="https://github.com/Nevss1" >
-    <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs?username=Nevss1&theme=dracula&layout=compact&langs_count=8&card_width=320" />
-  </a>
-</div>
+![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=Nevss1&theme=dracula&show_icons=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nevss1&theme=dracula&layout=compact)](https://github.com/Nevss1?tab=repositories)
